@@ -1,4 +1,4 @@
-pip install stmol
+
 import streamlit as st
 import stmol
 
